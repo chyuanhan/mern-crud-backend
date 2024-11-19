@@ -1,7 +1,7 @@
 {
   "env":{
     "DB_USER":"chyuanhan",
-    "DB_PASSWORD":"k4Rihh2h890S7aOC",
+    "DB_PASSWORD":"KeymAezFL0079Cdv",
     "DB_NAME":"mern",
     "GOOGLE_API_KEY":"AIzaSyDFeRTanTtbz5FvUk-vMI7xa8uhgQ6gc8c",
     "JWT_KEY":"supersecret_dont_share"
